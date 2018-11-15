@@ -1,0 +1,9 @@
+C:\Users\myers17\Desktop\Demo_WebAPI_Weather-master\Demo_WebAPI_Weather_Sync\bin\Debug\Demo_WebAPI_Weather.exe.config
+C:\Users\myers17\Desktop\Demo_WebAPI_Weather-master\Demo_WebAPI_Weather_Sync\bin\Debug\Demo_WebAPI_Weather.exe
+C:\Users\myers17\Desktop\Demo_WebAPI_Weather-master\Demo_WebAPI_Weather_Sync\bin\Debug\Demo_WebAPI_Weather.pdb
+C:\Users\myers17\Desktop\Demo_WebAPI_Weather-master\Demo_WebAPI_Weather_Sync\bin\Debug\Newtonsoft.Json.dll
+C:\Users\myers17\Desktop\Demo_WebAPI_Weather-master\Demo_WebAPI_Weather_Sync\bin\Debug\Newtonsoft.Json.xml
+C:\Users\myers17\Desktop\Demo_WebAPI_Weather-master\Demo_WebAPI_Weather_Sync\obj\Debug\Demo_WebAPI_Weather_Sync.csprojResolveAssemblyReference.cache
+C:\Users\myers17\Desktop\Demo_WebAPI_Weather-master\Demo_WebAPI_Weather_Sync\obj\Debug\Demo_WebAPI_Weather_Sync.csproj.CoreCompileInputs.cache
+C:\Users\myers17\Desktop\Demo_WebAPI_Weather-master\Demo_WebAPI_Weather_Sync\obj\Debug\Demo_WebAPI_Weather.exe
+C:\Users\myers17\Desktop\Demo_WebAPI_Weather-master\Demo_WebAPI_Weather_Sync\obj\Debug\Demo_WebAPI_Weather.pdb
